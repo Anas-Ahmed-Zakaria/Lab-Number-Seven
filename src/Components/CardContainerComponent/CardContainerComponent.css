@@ -1,0 +1,15 @@
+h2,
+.btn {
+    transition: 0.8s linear !important;
+    border: none !important;
+    outline: none !important;
+}
+
+h2:hover {
+    background-color: darkblue !important;
+}
+
+.btn:hover {
+    background-color: red !important;
+}
+
